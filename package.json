@@ -21,7 +21,9 @@
     "framer-motion": "^3.6.2",
     "next": "10.0.7",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "styled-components": "^5.2.1",
+    "twined-components": "0.0.5"
   },
   "devDependencies": {
     "@emotion/babel-plugin": "^11.2.0",
